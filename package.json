@@ -4,9 +4,11 @@
   "description": "Challenge repository",
   "authors": "Vinícius Albuquerque",
   "version": "1.0.0",
-  "main": "pathToMain",
   "dependencies": {},
   "workspaces": [
-    "desafio-01"
-  ]
+    "challenge-01"
+  ],
+  "repository": "https://github.com/vsalbuq/gostack.git",
+  "author": "Vinícius Albuquerque <vinicius.albuquerque@outlook.com>",
+  "license": "MIT"
 }
