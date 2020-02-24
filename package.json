@@ -5,6 +5,9 @@
   "authors": "Vinícius Albuquerque",
   "version": "1.0.0",
   "dependencies": {},
+  "scripts": {
+    "1": "yarn workspace challenge-01 dev"
+  },
   "workspaces": [
     "challenge-01"
   ],

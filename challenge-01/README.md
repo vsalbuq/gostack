@@ -26,7 +26,7 @@
 
 ## :rocket: The Challenge
 
-Create an application from scratch for storing projects and tasks using [Express](https://expressjs.com).
+Create an application from scratch to store projects and tasks using [Express](https://expressjs.com).
 
 ### Routes
 
@@ -56,7 +56,7 @@ If I call `POST /projects` passing `{ id: 1, title: 'New project' }` and the rou
 
 ### Middlewares
 
-- Create a middleware to be used in all routes that receive the ID of the project in the parameters of the URL to check if there is a project with that ID. If it don't exists, return an error. If it does, allow the request to continue;
+- Create a middleware to be used in all routes that receives the ID of the project in the parameters of the URL to check if there is a project with that ID. If it don't exists, return an error. If it does, allow the request to continue;
 
 - Create a global middleware called in all requests that prints (`console.log`) how many requests were made until now;
 

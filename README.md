@@ -17,6 +17,24 @@
   <a href="#memo-licença">License</a>
 </p>
 
+## :nerd_face: Import Insomnia Workspace
+
+1. Click on the arrow down aside the name of your workspace > `Import/Export`
+
+<img alt="Import workspace" src=".github/import-workspace.png" width="500px" />
+
+2. Click on `Import Data` > `From File`.
+
+<img alt="Import workspace" src=".github/from-file.png" width="500px" />
+
+3. Select `insomnia-workspace.json`, in this repo.
+
+4. :tada:
+
+## :muscle: Challenges
+
+1. Challenge 01: [Create an application from scratch to store projects and tasks using Express](https://github.com/vsalbuq/gostack/blob/master/challenge-01/index.js).
+
 ## :memo: Licença
 
 This project is under MIT License. Read [LICENSE](LICENSE.md) for detailed info.
