@@ -62,7 +62,7 @@ If I call `POST /projects` passing `{ id: 1, title: 'New project' }` and the rou
 
 ## 📅 Submission
 
-This challenge **does not need to be submitted** and will not be corrected, but you can see the result of the [code of the challenge here](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/index.js). After finishing the challenge, adding this code to your Github is a good way of showing your knowledge for future opportunities.
+This challenge **does not need to be submitted** and will not be corrected, but you can see the result of the [code of the challenge here](https://github.com/vsalbuq/gostack/blob/master/challenge-01/index.js). After finishing the challenge, adding this code to your Github is a good way of showing your knowledge for future opportunities.
 
 ## :memo: License
 
