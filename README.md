@@ -14,6 +14,8 @@
 </p>
 
 <p align="center">
+  <a href="#nerd_face-import-insomnia-workspace">Import Insomnia Workspace</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#muscle-challenges">Challenges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">License</a>
 </p>
 
