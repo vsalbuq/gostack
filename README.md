@@ -35,7 +35,9 @@
 
 ## :muscle: Challenges
 
-### 1. Challenge 01: [Create an application from scratch to store projects and tasks using Express](https://github.com/vsalbuq/gostack/tree/master/challenge-01#----).
+#### 1. Challenge 01: [Create an application from scratch to store projects and tasks using Express](https://github.com/vsalbuq/gostack/tree/master/challenge-01#----).
+
+#### 2. Challenge 02: [FastFeet (Back-end): Authentication + Recipient Management](https://github.com/vsalbuq/gostack/tree/master/challenge-02#----).
 
 ## :memo: Licence
 
