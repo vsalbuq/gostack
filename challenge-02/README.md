@@ -109,7 +109,7 @@ The recipient can't sign in to the system. This means he has no password.
 
 ## 📅 Submission
 
-This challenge **does not need to be submitted** and will not be corrected. The source code of my implementation of this challenge is available in the repository of the whole application, **[here](fastfeetrepo)**.
+This challenge **does not need to be submitted** and will not be corrected. The source code of my implementation of this challenge is available in the repository of the whole application, **[here][fastfeetrepo]**.
 
 You can find my own implementation
 
